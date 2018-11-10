@@ -15,7 +15,7 @@
     font-size: 100px;
     width: 200px;
     height: 200px;
-    background: radial-gradient(blue,yellow);
+    background: radial-gradient(blue, yellow);
     filter: invert(1);
     border: 2px solid black;
 }
